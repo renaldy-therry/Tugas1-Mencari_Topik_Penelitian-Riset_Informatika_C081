@@ -1,4 +1,4 @@
-# Tugas 1 - Mencari Topik Penelitian - Riset Informatika_C081
+# Tugas 1 - Mencari Topik Penelitian - Riset Informatika C081
 
 Nama = Renaldy William Lijaya Therry <br/>
 NPM = 20081010179 <br/>
