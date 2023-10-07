@@ -13,3 +13,11 @@ Pengantar  <br />
 <p> Struktur Data dan Algoritma merupakan dasar ilmu terpenting yang harus dipahami oleh seorang programmer, struktur data dan algoritma adalah dasar dari pemograman , 
     Algoritma adalah metode penyelesaian masalah dalam pemograman , struktur data adalah bentuk susunan data yang akan diolah oleh program, metode pembelajaran yang efektif
     dapat membuat pemahaman siswa mengenai algoritma dan struktur data akan lebih baik </p>
+
+
+Topik Penelitian  <br />
+Pembuatan Blog Pribadi untuk meningkatkan pengetahuan dan pemahaman tentang pemograman
+
+Pengantar  <br />
+<p> Blog Pribadi merupakan salah satu fasilitas terpenting untuk menyebarkan ilmu di website </p>
+
