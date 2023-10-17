@@ -10,9 +10,7 @@ Topik Penelitian  <br />
 Metode Pembelajaran Algoritma dan Struktur Data yang Efektif bagi siswa
 
 Pengantar  <br />
-<p> Struktur Data dan Algoritma merupakan dasar ilmu terpenting yang harus dipahami oleh seorang programmer, struktur data dan algoritma adalah dasar dari pemograman , 
-    Algoritma adalah metode penyelesaian masalah dalam pemograman , struktur data adalah bentuk susunan data yang akan diolah oleh program, metode pembelajaran yang efektif
-    dapat membuat pemahaman siswa mengenai algoritma dan struktur data akan lebih baik </p>
+<p> Angka tingkat pengangguran di Indonesia sangat megkhawatirkan, hal ini sangat berbahaya bagi keberlangsungan masa depan bangsa, sektor-sektor industri telah berevolusi dari konvensional ke masa teknologi, pada masa sekarang, banyak perusahaan membutuhkan kemampuan problem solving untuk menjadi persyaratan dalam mendapat pekerjaan, khususnya pada bidang sektor teknologi informasi (IT) yang membutuhkan penguasaan algoritma dan struktur data . Struktur Data dan Algoritma merupakan dasar ilmu terpenting yang harus dipahami oleh seorang programmer, struktur data dan algoritma merupakan salah satu  dasar dari pemograman , kemampuan modifikasi dan memecahkan masalah dengan menggunakan algoritma dan struktur data membutuhkan kemampuan berpikir kritis dan kreativitas yang tinggi </p>
 
 
 Topik Penelitian  <br />
