@@ -6,6 +6,7 @@
 [CCTV Surveillance Camera’s Image Resolution Enhancement using SRGAN](https://www.irjet.net/archives/V7/i6/IRJET-V7I6282.pdf)
 
 **Paper Menggunakan Metodologi**
+[Research and Improvement of Single Image Super-Resolution Based on Generative Adversarial Network](https://iopscience.iop.org/article/10.1088/1742-6596/1237/3/032046/pdf)
 
 
 ## Progres Riset
@@ -23,4 +24,4 @@ Peningkatan Kualitas Gambar CCTV dengan Menggunakan Super-Resolution Generative 
 **Metodologi**
 
 1. Pengumpulan data 
-
+2. Melakukan Processing gambar menggunakan SRGAN
