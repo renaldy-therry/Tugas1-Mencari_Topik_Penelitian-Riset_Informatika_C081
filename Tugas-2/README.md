@@ -24,4 +24,5 @@ Peningkatan Kualitas Gambar CCTV dengan Menggunakan Super-Resolution Generative 
 **Metodologi**
 
 1. Pengumpulan data 
-2. Melakukan Processing gambar menggunakan SRGAN
+2. Mendownload data yang sudah dilatih melalui github (metode SRGAN membutuhkan spesifikasi komputer yang tinggi)
+3. Melakukan Processing gambar menggunakan SRGAN
