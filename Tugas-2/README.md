@@ -2,10 +2,10 @@
 
 ## Contoh Paper
 
-**Paper Menggunakan Metode**
+**Paper Menggunakan Metode**<br />
 [CCTV Surveillance Camera’s Image Resolution Enhancement using SRGAN](https://www.irjet.net/archives/V7/i6/IRJET-V7I6282.pdf)
 
-**Paper Menggunakan Metodologi**
+**Paper Menggunakan Metodologi**<br />
 [Research and Improvement of Single Image Super-Resolution Based on Generative Adversarial Network](https://iopscience.iop.org/article/10.1088/1742-6596/1237/3/032046/pdf)
 
 
