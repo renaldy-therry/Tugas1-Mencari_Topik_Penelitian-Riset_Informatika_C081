@@ -7,3 +7,4 @@ Jurusan = Informatika <br />
 Fakultas = Ilmu Komputer <br />
 
 
+Tugas 1 : [Mencari Topik Penelitian](https://github.com/renaldy-therry/Tugas1-Mencari_Topik_Penelitian-Riset_Informatika_C081/tree/main/Tugas-1)
