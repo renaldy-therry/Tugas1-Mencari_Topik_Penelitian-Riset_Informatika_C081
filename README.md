@@ -49,8 +49,8 @@ Dataset didapat dari kaggle dengan link sebagai berikut :\
 
 **Referensi**
 
-Kobylin, O., & Lyashenko, V. (2020). Time Series Clustering Based on the K-Means Algorithm. *Journal La Multiapp*, *1*(3), 1--7. https://doi.org/10.37899/journallamultiapp.v1i3.191
+[Kobylin, O., & Lyashenko, V. (2020). Time Series Clustering Based on the K-Means Algorithm. *Journal La Multiapp*, *1*(3), 1--7. https://doi.org/10.37899/journallamultiapp.v1i3.191](http://newinera.com/index.php/JournalLaMultiapp/article/download/191/123/)
 
-Moh. Fatkuroji, Fajrizal, Taslim, Eka Sabna, & Kursiah Warti Ningsih. (2022). Optimasi Nilai K Pada Algoritma k-Means untuk Klasterisasi Data Pasien Covid-19. *Indonesian Journal of Computer Science*, *11*(2), 697--707. https://doi.org/10.33022/ijcs.v11i2.3088
+[Moh. Fatkuroji, Fajrizal, Taslim, Eka Sabna, & Kursiah Warti Ningsih. (2022). Optimasi Nilai K Pada Algoritma k-Means untuk Klasterisasi Data Pasien Covid-19. *Indonesian Journal of Computer Science*, *11*(2), 697--707. https://doi.org/10.33022/ijcs.v11i2.3088](http://ijcs.stmikindonesia.ac.id/ijcs/index.php/ijcs/article/view/3088/66)
 
-Sari, D. N., & Yunita, I. (2021). Tingkat Keparahan Dan Risiko Penyebaran Covid-19 Di Indonesia Dengan Menggunakan K-Means Clustering. *Seminar Nasional Official Statistics*, *2020*(1), 210--216. https://doi.org/10.34123/semnasoffstat.v2020i1.706
+[Sari, D. N., & Yunita, I. (2021). Tingkat Keparahan Dan Risiko Penyebaran Covid-19 Di Indonesia Dengan Menggunakan K-Means Clustering. *Seminar Nasional Official Statistics*, *2020*(1), 210--216. https://doi.org/10.34123/semnasoffstat.v2020i1.706](https://prosiding.stis.ac.id/index.php/semnasoffstat/article/view/706/110)
