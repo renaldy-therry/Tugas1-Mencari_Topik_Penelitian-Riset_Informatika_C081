@@ -109,3 +109,6 @@ Dataset didapat dari kaggle dengan link sebagai berikut :\
 **Draft Jurnal**
 
 https://docs.google.com/document/d/1QTRp9HnsAvCe6FlTTU4wTL2T_3VNzv_q/edit?usp=sharing&ouid=115898957834174343632&rtpof=true&sd=true
+
+**link video**
+https://youtu.be/1Z9XlsC8lGU
