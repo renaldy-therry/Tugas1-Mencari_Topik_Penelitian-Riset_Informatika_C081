@@ -1,12 +1,17 @@
 # Tugas Riset Informatika C081 
 
 Nama = Renaldy William Lijaya Therry 
+
 NPM = 20081010179 
+
 Kelas = Riset Informatika C081 
+
 Jurusan = Informatika 
+
 Fakultas = Ilmu Komputer 
 
 **Topik Penelitian**
+
 **ANALISIS DATA COVID 19 DI INDONESIA DENGAN METODE KMEANS TIME SERIES CLUSTERING**
 
 **Latar Belakang**
@@ -29,7 +34,7 @@ Dengan menggunakan metode kmeans time series clustering, penelitian ini diharapk
 
 **Metodologi penelitian**
 
-Penelitian ini menggunakan metode kuantitatif karena menganalisis data dengan menggunakan metode kmeans clustering yang melibatkan matematika di dalamnya
+Penelitian ini menggunakan metode kuantitatif, di mana data dianalisis dengan menggunakan metode kmeans clustering yang melibatkan matematika di dalamnya
 
 **Metode Penelitian**
 
@@ -60,6 +65,7 @@ Dataset didapat dari kaggle dengan link sebagai berikut :\
 ![dataset](gambar%20pendukung/dataset.png)
 ![total kasus](gambar%20pendukung/total%20kasus.png)
 
+
 **Referensi**
 
 [Kobylin, O., & Lyashenko, V. (2020). Time Series Clustering Based on the K-Means Algorithm. *Journal La Multiapp*, *1*(3), 1--7. https://doi.org/10.37899/journallamultiapp.v1i3.191](http://newinera.com/index.php/JournalLaMultiapp/article/download/191/123/)
@@ -67,3 +73,6 @@ Dataset didapat dari kaggle dengan link sebagai berikut :\
 [Moh. Fatkuroji, Fajrizal, Taslim, Eka Sabna, & Kursiah Warti Ningsih. (2022). Optimasi Nilai K Pada Algoritma k-Means untuk Klasterisasi Data Pasien Covid-19. *Indonesian Journal of Computer Science*, *11*(2), 697--707. https://doi.org/10.33022/ijcs.v11i2.3088](http://ijcs.stmikindonesia.ac.id/ijcs/index.php/ijcs/article/view/3088/66)
 
 [Sari, D. N., & Yunita, I. (2021). Tingkat Keparahan Dan Risiko Penyebaran Covid-19 Di Indonesia Dengan Menggunakan K-Means Clustering. *Seminar Nasional Official Statistics*, *2020*(1), 210--216. https://doi.org/10.34123/semnasoffstat.v2020i1.706](https://prosiding.stis.ac.id/index.php/semnasoffstat/article/view/706/110)
+
+**Draft Jurnal**
+https://docs.google.com/document/d/1T-yPUX-1oThojLhzfxAqIogk7Z9oRrFz/edit?usp=sharing&ouid=115898957834174343632&rtpof=true&sd=true
