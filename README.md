@@ -43,6 +43,10 @@ Dataset didapat dari kaggle dengan link sebagai berikut :\
 
 (Kobylin & Lyashenko, 2020; Moh. Fatkuroji et al., 2022; Sari & Yunita, 2021)
 
+**Gambar Pendukung**
+![dataset](gambar%20pendukung/dataset.png)
+![total kasus](gambar%20pendukung/total%20kasus.png)
+
 **Referensi**
 
 Kobylin, O., & Lyashenko, V. (2020). Time Series Clustering Based on the K-Means Algorithm. *Journal La Multiapp*, *1*(3), 1--7. https://doi.org/10.37899/journallamultiapp.v1i3.191
