@@ -1,24 +1,21 @@
 # Tugas Riset Informatika C081
 
  
-Nama = Renaldy William Lijaya Therry
-NPM = 20081010179
-Kelas = Riset Informatika C081
-Jurusan = Informatika
-Fakultas = Ilmu Komputer
+Nama = Renaldy William Lijaya Therry<br>
+NPM = 20081010179<br>
+Kelas = Riset Informatika C081<br>
+Jurusan = Informatika<br>
+Fakultas = Ilmu Komputer<br>
  
 
 **Topik Penelitian**
 
 # ANALISIS DATA COVID 19 DI INDONESIA DENGAN METODE KMEANS TIME SERIES CLUSTERING
 
-  
 **Latar Belakang**
-
   
 
 Pandemi COVID-19 adalah krisis kesehatan global yang telah menimbulkan dampak besar bagi seluruh dunia, termasuk Indonesia. Sejak kasus pertama COVID-19 diumumkan pada Maret 2020, jumlah kasus positif, sembuh, dan meninggal akibat COVID-19 terus meningkat di Indonesia. Hingga Juli 2021, Indonesia telah melaporkan lebih dari 3 juta kasus positif dan lebih dari 80 ribu kematian akibat COVID-19
-
   
 
 Dalam upaya mengendalikan penyebaran COVID-19, pemerintah Indonesia telah menerapkan berbagai kebijakan, seperti pembatasan sosial berskala besar (PSBB), pemberlakuan pembatasan kegiatan masyarakat (PPKM), dan program vaksinasi nasional. Namun, kebijakan-kebijakan ini tidak selalu efektif dan konsisten di seluruh provinsi di Indonesia, karena adanya perbedaan karakteristik, kondisi, dan kapasitas daerah
@@ -128,8 +125,7 @@ Dataset didapat dari kaggle dengan link sebagai berikut :\
 
 [Sari, D. N., & Yunita, I. (2021). Tingkat Keparahan Dan Risiko Penyebaran Covid-19 Di Indonesia Dengan Menggunakan K-Means Clustering. *Seminar Nasional Official Statistics*, *2020*(1), 210--216. https://doi.org/10.34123/semnasoffstat.v2020i1.706](https://prosiding.stis.ac.id/index.php/semnasoffstat/article/view/706/110)
 
-  
 
 **Draft Jurnal**
 
-https://docs.google.com/document/d/1T-yPUX-1oThojLhzfxAqIogk7Z9oRrFz/edit?usp=sharing&ouid=115898957834174343632&rtpof=true&sd=true
+https://docs.google.com/document/d/1QTRp9HnsAvCe6FlTTU4wTL2T_3VNzv_q/edit?usp=sharing&ouid=115898957834174343632&rtpof=true&sd=true
