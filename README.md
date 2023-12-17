@@ -73,7 +73,6 @@ Hasil analisis data menggunakan kmeans clustering menunjukkan data terbagi
 
 atas 6 klaster dengan angka kematian tertinggi berada pada kluster 2 yaitu Lampung dengan angka kematian 0,554
 
-  
 
 **Dataset**
 
@@ -84,8 +83,6 @@ Dataset didapat dari kaggle dengan link sebagai berikut :\
   
 
 (Kobylin & Lyashenko, 2020; Moh. Fatkuroji et al., 2022; Sari & Yunita, 2021)
-
-  
 
 **Gambar Pendukung**
 
@@ -110,6 +107,6 @@ Dataset didapat dari kaggle dengan link sebagai berikut :\
 
 https://docs.google.com/document/d/1QTRp9HnsAvCe6FlTTU4wTL2T_3VNzv_q/edit?usp=sharing&ouid=115898957834174343632&rtpof=true&sd=true
 
-**link video**
+**link video Presentasi Kode**
 
 https://youtu.be/1Z9XlsC8lGU
