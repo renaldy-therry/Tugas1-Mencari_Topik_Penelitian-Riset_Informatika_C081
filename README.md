@@ -41,14 +41,7 @@ Penelitian ini menggunakan metode kuantitatif, di mana data dianalisis dengan me
 
 **Metode Penelitian**
 
-  
-
-1. Analisis data menggunakan Python dan library-library tambahan
-
-2. Data didapatkan dari kaggle dengan data berisi jumlah kematian , kesembuhan per provinsi
-
-3. Data dianalisis mengggunakan Kmeans clustering time series
-
+Penelitian ini menggunakan data Covid-19 tiap provinsi di Indonesia yang diunduh dari  kaggle, data-data tersebut diolah dengan menggunakan bahasa pemograman python beserta library-library tambahan seperti matplotlib, sklearn, numpy, panda, dll, kemudian melakukan operasi pengolahan pada data yaitu merapikan data,  normalisasi data, membuat range pada masing-masing data, visualisasi data sebelum diolah menggunakan kmeans melalu matriks korelasi heatmap, elbow method, plot , kemudian menerapkan  KMeans time series clustering,  dan menampilkan visualisasi data setelah diolah menggunakan kmeans melalui treemap graph ,  bar chart.
   
 
 **Hasil Penelitian**
