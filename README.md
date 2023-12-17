@@ -1,11 +1,12 @@
-# Tugas  Riset Informatika C081
+# Tugas Riset Informatika C081 
 
-Nama = Renaldy William Lijaya Therry <br/>
-NPM = 20081010179 <br/>
-Kelas = Riset Informatika C081 <br/>
-Jurusan = Informatika <br />
-Fakultas = Ilmu Komputer <br />
+Nama = Renaldy William Lijaya Therry 
+NPM = 20081010179 
+Kelas = Riset Informatika C081 
+Jurusan = Informatika 
+Fakultas = Ilmu Komputer 
 
+**Topik Penelitian**
 **ANALISIS DATA COVID 19 DI INDONESIA DENGAN METODE KMEANS TIME SERIES CLUSTERING**
 
 **Latar Belakang**
@@ -33,11 +34,20 @@ Penelitian ini menggunakan metode kuantitatif karena menganalisis data dengan me
 **Metode Penelitian**
 
 1. Analisis data menggunakan Python dan library-library tambahan
-
 2. Data didapatkan dari kaggle dengan data berisi jumlah kematian , kesembuhan per provinsi
+3. Data dianalisis mengggunakan Kmeans clustering time series
+
+**Hasil Penelitian**
+
+**Jumlah Kasus Covid Per Cluster**
+![kasus](hasil%20penelitian/angka%20kasus%20per%20klaster.png)
+Hasil analisis data menggunakan kmeans clustering menunjukkan data terbagi 
+atas 6 klaster dengan angka kasus tertinggi berada pada kluster 4 yaitu DKI Jakarta dengan total kasus 1412511
+
+
+ 
 
 **Dataset**
-
 Dataset didapat dari kaggle dengan link sebagai berikut :\
 <https://www.kaggle.com/datasets/hendratno/covid19-indonesia>
 
