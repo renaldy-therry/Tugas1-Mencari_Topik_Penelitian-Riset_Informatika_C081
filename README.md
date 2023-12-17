@@ -42,9 +42,12 @@ Penelitian ini menggunakan metode kuantitatif karena menganalisis data dengan me
 **Jumlah Kasus Covid Per Cluster**
 ![kasus](hasil%20penelitian/angka%20kasus%20per%20klaster.png)
 Hasil analisis data menggunakan kmeans clustering menunjukkan data terbagi 
-atas 6 klaster dengan angka kasus tertinggi berada pada kluster 4 yaitu DKI Jakarta dengan total kasus 1412511
+atas 6 klaster dengan angka kasus tertinggi berada pada kluster 4 yaitu DKI Jakarta dengan total kasus sebesar 1412511
 
-
+**Angka Kematian**
+![kematian](hasil%20penelitian/angka%20kematian%20per%20kluster.png)
+Hasil analisis data menggunakan kmeans clustering menunjukkan data terbagi 
+atas 6 klaster dengan angka kematian tertinggi berada pada kluster 2 yaitu Lampung dengan angka kematian 0,554
  
 
 **Dataset**
