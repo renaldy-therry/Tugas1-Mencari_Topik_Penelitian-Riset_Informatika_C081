@@ -42,11 +42,17 @@ Penelitian ini menggunakan metode kuantitatif, di mana data dianalisis dengan me
 **Metode Penelitian**
 
 Penelitian ini menggunakan data Covid-19 tiap provinsi di Indonesia yang diunduh dari  kaggle, data-data tersebut diolah dengan menggunakan bahasa pemograman python beserta library-library tambahan seperti matplotlib, sklearn, numpy, panda, dll, kemudian melakukan operasi pengolahan pada data yaitu merapikan data,  normalisasi data, membuat range pada masing-masing data, visualisasi data sebelum diolah menggunakan kmeans melalu matriks korelasi heatmap, elbow method, plot , kemudian menerapkan  KMeans time series clustering,  dan menampilkan visualisasi data setelah diolah menggunakan kmeans melalui treemap graph ,  bar chart.
-  
+
+**K Means Clustering**
+Adapun langkah-langkah untuk K-Means Clustering adalah sebagai berikut
+(Prasetyo, 2014):
+1. Inisialisasi: tentukan nilai k sebagai jumlah klaster yang diinginkan dan matriks jarak yang diinginkan.
+2. Pilih k data dari set data X sebagai centroid.
+3. Alokasikan semua data ke centroid terdekat dengan matriks jarak yang sudah ditetapkan (memperbarui klaster ID pada setiap data).
+4. Hitung kembali centroid berdasarkan data yang mengikuti klaster masing-masing. Setiap pusat cluster dihitung ulang berdasarkan dari nilai rata-rata dalam cluster yang didapatkan
+5. Ulangi langkah 3 dan 4 hingga kondisi konvergen tercapai, yaitu tidak ada data yang berpindah klaster.
 
 **Hasil Penelitian**
-
-  
 
 **Jumlah Kasus Covid Per Cluster**
 
